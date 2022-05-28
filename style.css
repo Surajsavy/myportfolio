@@ -453,10 +453,10 @@ section .title::after{
     background: #2ab99e;
 }
 .skills-content .right .html::before{
-    width: 80%;
+    width: 70%;
 }
 .skills-content .right .css::before{
-    width: 70%;
+    width: 60%;
 }
 .skills-content .right .js::before{
     width: 50%;
